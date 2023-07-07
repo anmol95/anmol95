@@ -7,7 +7,7 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Anmol Agarwal**, Software engineering professional with over 7.5 years of experience. <br>
+✔️ I am **Anmol Agarwal**, Software engineering professional with over 8+ years of experience. <br>
 
 ✔️ Currently working as Senior Engineer with *Oracle, Bengaluru, India*. <br>
 
